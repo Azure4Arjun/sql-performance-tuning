@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Internal Structure", "Internal Structure\Internal Structure.ssmssqlproj", "{B9FDE83F-E38B-4F5D-ABCF-1A43B743ACE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FDE83F-E38B-4F5D-ABCF-1A43B743ACE9}.Default|Default.ActiveCfg = Default
+		{2DD4E261-8938-45DD-95DF-AADFD1486410}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

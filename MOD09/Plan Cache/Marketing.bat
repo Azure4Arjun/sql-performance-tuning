@@ -1,0 +1,1 @@
+sqlcmd /S"." /E /dmarketingDB /iRunQueries.sql

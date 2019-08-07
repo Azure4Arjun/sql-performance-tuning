@@ -1,0 +1,8 @@
+
+SELECT *
+FROM Person.Contact
+WHERE Title = 'Ms.'
+
+WAITFOR DELAY '00:00:30'
+
+GO 99999999999

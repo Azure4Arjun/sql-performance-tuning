@@ -1,0 +1,1 @@
+wmic partition get Name, Index, StartingOffset, BlockSize

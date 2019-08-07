@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Transaction Log", "Transaction Log\Transaction Log.ssmssqlproj", "{3640EB6E-D46B-4B47-A2C8-9CC9EF8F51A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3640EB6E-D46B-4B47-A2C8-9CC9EF8F51A4}.Default|Default.ActiveCfg = Default
+		{95316B04-DDBB-4101-8845-C197C9138D06}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

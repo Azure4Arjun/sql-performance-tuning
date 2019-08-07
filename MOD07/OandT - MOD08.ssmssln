@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Indexes", "Indexes\Indexes.ssmssqlproj", "{9AD4F86F-4C92-4EDC-BC5B-10ED9EBF012F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Columnstore Index", "Columnstore Index\Columnstore Index.ssmssqlproj", "{0368336A-1C90-4443-9950-7ACEA1DB791F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "iFTS", "iFTS\iFTS.ssmssqlproj", "{C20F0558-F68A-4AEB-BCD8-EFF112F62944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD4F86F-4C92-4EDC-BC5B-10ED9EBF012F}.Default|Default.ActiveCfg = Default
+		{0368336A-1C90-4443-9950-7ACEA1DB791F}.Default|Default.ActiveCfg = Default
+		{C20F0558-F68A-4AEB-BCD8-EFF112F62944}.Default|Default.ActiveCfg = Default
+		{0F390435-3F66-48B1-AA1E-853B7B6A3491}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

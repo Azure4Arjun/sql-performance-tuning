@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Waits", "Waits\Waits.ssmssqlproj", "{B01F9F8E-16FF-43A7-A755-146B1247550A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "XE", "XE\XE.ssmssqlproj", "{0AE3E66E-322F-4ABD-A6E3-5BBB3CE81EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01F9F8E-16FF-43A7-A755-146B1247550A}.Default|Default.ActiveCfg = Default
+		{0AE3E66E-322F-4ABD-A6E3-5BBB3CE81EE4}.Default|Default.ActiveCfg = Default
+		{77B0CFD2-B754-4726-9452-3E9BFF3EB884}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

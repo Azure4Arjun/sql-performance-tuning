@@ -1,0 +1,2 @@
+cd C:\"Program Files"\"Microsoft Corporation"\RMLUtils\
+ostress –S. –E –Q"EXEC DBTestTempDB.dbo.usp_loop_temp_table;" –ooutput.txt –n300

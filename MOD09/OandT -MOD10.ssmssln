@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Plan Cache", "Plan Cache\Plan Cache.ssmssqlproj", "{7FAED8A4-8749-4685-94D2-330E877F7AB7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Corruptions", "Corruptions\Corruptions.ssmssqlproj", "{16C523AB-BECF-45BA-B140-8EC0112BB256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FAED8A4-8749-4685-94D2-330E877F7AB7}.Default|Default.ActiveCfg = Default
+		{8F1436B4-2AA8-449B-B0D3-804A9C1CF6F1}.Default|Default.ActiveCfg = Default
+		{16C523AB-BECF-45BA-B140-8EC0112BB256}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

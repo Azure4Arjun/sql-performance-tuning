@@ -1,0 +1,8 @@
+sqlio v1.5.SG
+using system counter for latency timings, 3418056 counts per second
+1 thread writing for 60 secs to file TestFile.dat
+	using 64KB random IOs
+	enabling multiple I/Os per thread with 8 outstanding
+using current size: 0 MB for file: TestFile.dat
+initialization done
+interrupted by Ctrl-C - stopping I/Os now
